@@ -10,4 +10,6 @@ A Machine Learning web app built with **Streamlit** that predicts whether a stud
 - 🔧 Preprocessing with **Scikit-learn (StandardScaler, OneHotEncoder, ColumnTransformer)**  
 - ✅ Real-time predictions from user inputs  
 
+## 🌐 Live Demo
 
+👉 [Try it now](https://student-performance-predictor-vpbuemioppgc99eimoj3zu.streamlit.app/)
